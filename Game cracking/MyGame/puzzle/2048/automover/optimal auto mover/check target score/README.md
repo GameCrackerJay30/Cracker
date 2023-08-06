@@ -43,8 +43,12 @@ Step 4:
       That's done. You can start enjoy it.
       
 ## Known issue
-
         issue#000001
+
+For more details, see the known issues at
+
+https://github.com/GameCrackerJay30/Cracker/wiki
+
 ## Reference
 ### To Play Original game
 http://hdjarv.github.io/2048-autoplay/
