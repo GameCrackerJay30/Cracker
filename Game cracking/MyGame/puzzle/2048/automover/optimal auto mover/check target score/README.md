@@ -8,7 +8,7 @@ Start at:
 
 Latest update at:
 
-        2023/08/06 16:20 p.m.
+        2023/08/06 16:25 p.m.
 #### Author
 GameCrackerJay30
 ### Rule
@@ -42,7 +42,9 @@ Step 4:
 
       That's done. You can start enjoy it.
       
+## Known issue
 
+        issue#000001
 ## Reference
 ### To Play Original game
 http://hdjarv.github.io/2048-autoplay/
