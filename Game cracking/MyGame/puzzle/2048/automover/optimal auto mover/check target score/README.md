@@ -8,7 +8,7 @@ Start at:
 
 Latest update at:
 
-        2023/08/06 15:58 p.m.
+        2023/08/06 16:20 p.m.
 #### Author
 GameCrackerJay30
 ### Rule
@@ -49,3 +49,4 @@ http://hdjarv.github.io/2048-autoplay/
 ### To Play My developement game
 https://github.com/GameCrackerJay30/Cracker/blob/main/Game%20cracking/MyGame/puzzle/2048/automover/optimal%20auto%20mover/check%20target%20score/zip/2048AutoMoverWithTargetScore.7z
 ### My Demo Video
+https://youtu.be/47nYL1dgWfc
